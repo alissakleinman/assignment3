@@ -1,3 +1,27 @@
-h2{
+h1{
 	text-align: center;
+}
+.wrapper{
+	width: 900px;
+    margin: 0 auto;
+}
+.facebooktwitter{
+	position: fixed;
+	top: 0;
+	left: 0;
+	background-color: green;
+	padding: 15px;
+}
+.leftcolumn{
+	float: left;
+	width: 50%;
+	background-color: red;
+}
+.rightcolumn{
+	float: left;
+	width: 50%;
+	background-color: yellow;
+}
+.books{
+	padding: 20px:;
 }
