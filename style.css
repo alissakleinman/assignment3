@@ -60,3 +60,10 @@ a:active{
 .books{
 	padding: 40px;
 }
+
+.imagegallery{
+	float: left;
+	width: 110px;
+	height: 170px;
+	margin-right: 40px;
+}
